@@ -1,6 +1,6 @@
 # TABLEAU Sales & Customer for Business Intelligence(BI)
 
-![]()
+![](https://github.com/yogee4/TABLEAU/blob/main/logo.png)
 
 ##                 Tableau User Story | Sales Performance
 
