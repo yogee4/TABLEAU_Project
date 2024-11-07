@@ -1,6 +1,8 @@
-# TABLEAU Sales & Customer for Business Intelligence(BI)
+# TABLEAU Project: Sales & Customer Analysis Dashboard (Business Intelligence)
 
 ![](https://github.com/yogee4/TABLEAU/blob/main/logo.png)
+
+Dashboard Report Link: https://public.tableau.com/app/profile/yogeesh.chandrashekar/viz/SalesCustomerDashboardProject_17309971805870/SalesDashboard?publish=yes
 
 ##                 Tableau User Story | Sales Performance
 
@@ -10,7 +12,9 @@ This user story outlines the specifications for building two dashboards using ta
 
 ##    Sales Dashboard | Requirements
 ## Dashboard Purpose
-The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
+The purpose of the sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
+
+![Snap](https://github.com/yogee4/TABLEAU_Sales/blob/main/Report_Snapshot.png)
 
 ##  Key Requirements
 *KPI Overview*
